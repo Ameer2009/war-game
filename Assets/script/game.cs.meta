@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 819f04cced21154ca8c76f4f3377c40d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - body: {instanceID: 0}
+  - mainarm: {instanceID: 0}
+  - tank: {instanceID: 0}
+  - tank2: {instanceID: 0}
+  - bomb: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
